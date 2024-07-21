@@ -1,3 +1,7 @@
+**Install Docker**
+
+[Docker](https://www.docker.com/)
+
 **Build Back-End (Node)**
 ```
 cd backend
